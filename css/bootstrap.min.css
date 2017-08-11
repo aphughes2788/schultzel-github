@@ -5438,6 +5438,7 @@ fieldset[disabled] .navbar-default .btn-link:focus {
 @media (max-width: 768px) {
   .navbar-inverse .navbar-collapse {
     text-align: center;
+    padding-top: 30px;
   }
   .navbar-inverse .navList {
     float: none !important;
