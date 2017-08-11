@@ -4077,7 +4077,13 @@ input[type="button"].btn-block {
 
 @media (max-width: 768px) {
   .appointmentButton {
-    width: 70%;
+    position: fixed;
+    top: 51px;
+    left: 50%;
+    margin-left: -50%;
+    z-index: 2000;
+    width: 100%;
+    border-radius: 0;
   }
 }
 
