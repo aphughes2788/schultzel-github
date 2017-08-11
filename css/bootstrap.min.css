@@ -4075,6 +4075,12 @@ input[type="button"].btn-block {
   color: white;
 }
 
+@media (max-width: 768px) {
+  .appointmentButton {
+    width: 70%;
+  }
+}
+
 .btn-red-outline {
   border: 1px solid #e26b6b;
   color: #e26b6b;

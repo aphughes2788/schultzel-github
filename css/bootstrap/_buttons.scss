@@ -183,6 +183,9 @@ input[type="button"] {
     // transition: ease all .3s;
     // width: 52%;
   }
+  @media(max-width: 768px) {
+    width: 70%;
+  }
 }
 
 .btn-red-outline {
