@@ -7051,6 +7051,10 @@ button.close {
   overflow: hidden;
 }
 
+.modal-open .appointmentButton {
+  z-index: 100;
+}
+
 .modal {
   display: none;
   overflow: hidden;

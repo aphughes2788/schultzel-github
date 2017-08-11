@@ -10,6 +10,9 @@
 // Kill the scroll on the body
 .modal-open {
   overflow: hidden;
+  .appointmentButton {
+    z-index: 100;
+  }
 }
 
 // Container that the modal scrolls within
