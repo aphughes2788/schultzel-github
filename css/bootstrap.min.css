@@ -7120,6 +7120,13 @@ button.close {
   width: 70%;
 }
 
+@media (max-width: 586px) {
+  .wideModal {
+    width: 100%;
+    margin: 0;
+  }
+}
+
 .modal-content {
   position: relative;
   background-color: #fff;
@@ -7236,6 +7243,9 @@ button.close {
   }
   .detailsModal {
     width: 600px;
+  }
+  .wideModal {
+    width: 70%;
   }
   .modal-content {
     -webkit-box-shadow: 0 5px 15px rgba(0, 0, 0, 0.5);
