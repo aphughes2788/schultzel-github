@@ -7116,6 +7116,10 @@ button.close {
   }
 }
 
+.wideModal {
+  width: 70%;
+}
+
 .modal-content {
   position: relative;
   background-color: #fff;
