@@ -1157,6 +1157,12 @@
 		"sC": 1,
 		"tS": 0
 		},
+	"\/ourteam.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/ourteam.html",
+		"oF": 0
+		},
 	"\/prepros.cfg": {
 		"ft": 8192,
 		"oA": 2,
@@ -1192,7 +1198,7 @@
 	},
 "projectAttributes": {
 	"creationDate": 524171978,
-	"displayValue": "schultzel site",
+	"displayValue": "schultzel-github",
 	"displayValueWasSetByUser": 0,
 	"iconImageName": "\/apple-touch-icon.png"
 	},
