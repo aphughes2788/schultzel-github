@@ -599,8 +599,8 @@
   }
 
   // Darken the responsive nav toggle
-  .navbar-toggle {
-    border-color: $navbar-inverse-toggle-border-color;
+  .navbar-toggle  {
+    border-color: transparent;
     &:hover,
     &:focus {
       background-color: $navbar-inverse-toggle-hover-bg;
