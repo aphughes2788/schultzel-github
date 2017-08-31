@@ -7797,6 +7797,14 @@ button.close {
   }
 }
 
+.teamCarousel .carousel-control.left {
+  left: 25%;
+}
+
+.teamCarousel .carousel-control.right {
+  right: 25%;
+}
+
 .clearfix:before, .clearfix:after {
   content: " ";
   display: table;
