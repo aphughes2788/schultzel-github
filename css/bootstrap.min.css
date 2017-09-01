@@ -6362,6 +6362,7 @@ a.thumbnail.active {
 @media (max-width: 586px) {
   .inlineBlockList {
     display: block;
+    max-width: none;
   }
 }
 

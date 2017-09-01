@@ -44,6 +44,7 @@
   max-width: 49%;
   @media(max-width: 586px) {
     display: block;
+    max-width: none;
   }
   ul {
     padding-left: 20px;
